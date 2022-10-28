@@ -6,7 +6,7 @@
   Você é capaz de gerar senhas entre 5 e 25 caracteres e copiar elas com apenas um click!
 </div>
 </br>
-  https://willissz.github.io/PlayMusic/
+  https://willissz.github.io/PasswordGenerator/
   
 <div style="display: inline_block"><br>
   <img align="start" alt="Willis-Js" height="27" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
